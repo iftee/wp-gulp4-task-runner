@@ -1,0 +1,20 @@
+{
+  "name": "wp-gulp4-task-runner",
+  "version": "1.0.0",
+  "description": "A Gulp v4 task runner for WordPress theme development with Sass and BrowserSync. Make sure gulp-cli is installed. npm install gulp-cli -g",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iftee/wp-gulp4-task-runner.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iftakhar Hasan",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
