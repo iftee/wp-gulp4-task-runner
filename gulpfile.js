@@ -34,6 +34,6 @@ function watch() {
   gulp.watch('./assets/js/**/*.js').on('change', browserSync.reload);
 }
 
-// Thiese will need global gulp-cli to execute as gulp command
+// These will need global gulp-cli to execute as gulp command
 exports.style = style;
 exports.watch = watch;
