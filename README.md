@@ -6,7 +6,7 @@ A Gulp v4 task runner for WordPress theme development with Sass and BrowserSync.
 
 ## Prerequisite
 
-If gulp-cli is not already installed:
+If `gulp-cli is` not already installed:
 ```bash
 npm install gulp-cli -g
 ```
