@@ -17,7 +17,7 @@ function style() {
     .pipe(minify())
     // css file destination
     .pipe(gulp.dest('.'))
-    // strem changes to browser
+    // stream( changes to browser
     .pipe(browserSync.stream());
 }
 
